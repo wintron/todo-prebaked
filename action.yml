@@ -1,0 +1,5 @@
+name: 'todo[bot]'
+description: 'A GitHub action built with Probot that creates new issues based on actionable comments in your code.'
+runs:
+  using: 'node12'
+  main: 'action.js'
